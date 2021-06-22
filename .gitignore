@@ -2,3 +2,5 @@
 Music/*
 *.out
 Cuckoo_setup
+node_modules
+dist
